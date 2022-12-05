@@ -1,12 +1,9 @@
 def my_superfunction():
     print('What an awesome print!')
-    # yandex?>
-    # yandex?>
-    # yandex?>
 
 
 def main():
-    print('My first git program')
+    print('My first git program1')
     print('And I change it every day')
     print('Again')
     print('UFO came and added this line')
