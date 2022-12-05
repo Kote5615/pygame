@@ -1,6 +1,8 @@
 def my_superfunction():
     print('What an awesome print!')
     # yandex?>
+    # yandex?>
+    # yandex?>
 
 
 def main():
